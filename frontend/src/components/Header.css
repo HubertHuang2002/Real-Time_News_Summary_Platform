@@ -1,0 +1,57 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  Padding-top: 15px;
+  Padding-bottom: 15px;
+  height: 50px;
+  transition: height 0.3s;
+  z-index: 1000;
+}
+
+
+.header-extended {
+  height: 150px;
+}
+
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
+  cursor: pointer;
+  color: black;
+}
+
+.menu-button {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #333;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.menu-button .icon {
+  width: 20px;
+  height: 20px;
+  transition: transform 0.3s ease, color 0.3s ease;
+
+}
+
+.menu-button .icon-hamburger:hover {
+
+  transform: scale(1.2);
+}
+
+.menu-button .icon-close:hover {
+
+  transform: scale(0.8) rotate(90deg);
+}
