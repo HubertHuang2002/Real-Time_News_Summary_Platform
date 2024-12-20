@@ -2,7 +2,7 @@
 
 ### Preface
 This is our final project for the course "Web Application Programming."
-For a complete project introduction, please visit my **[personal website.](https://huberthuang2002.github.io/blog/post-3/)**
+For a complete project introduction, please visit my **[personal website.](https://huberthuang2002.github.io/blog/post-5/)**
 
 ### Collaborators
 Huang Po-Cheng, Su Yu-Yang, Lin Chun-Han, Yu Chih-Chieh
