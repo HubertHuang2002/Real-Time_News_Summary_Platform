@@ -14,6 +14,6 @@ This project enables hosting a local web server with the following functionaliti
 * Categorizing news by type and producing multiple news summaries for each category.
 
 ## Usage Instructions
-1. Navigate to the **frontend** folder and execute `npm install` in the terminal.
+1. Navigate to the **package.json** file in the **frontend** folder and execute `npm install` in the terminal.
 2. In the **package.json** file in the **frontend** folder. frontend folder, execute `npm start` in the terminal.
 3. Navigate to the **backend.py** file in the **backend** folder and run the `backend.py` file in the terminal.
