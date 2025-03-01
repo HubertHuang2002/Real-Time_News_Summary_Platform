@@ -2,7 +2,7 @@ import openai
 import time
 
 # Define the API key for accessing OpenAI's services
-api_key = "sk-NOg6VgtJCHlDbCXK4iM5d03cwIJsOS9FXZrlm3ZJedQYQqS8"
+api_key = ""
 
 # Initialize the OpenAI client with the API key and a custom base URL
 client = openai.OpenAI(
