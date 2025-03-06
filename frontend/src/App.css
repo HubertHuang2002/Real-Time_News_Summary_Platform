@@ -1,0 +1,24 @@
+.app {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.welcome-message {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+  align-items: center;    
+  height: 100vh;        
+  text-align: center;     
+}
+
+.welcome-message h2 {
+  margin-bottom: 10px;   
+  font-size: 1.2em;     
+}
+
+.welcome-message p {
+  font-size: 1em;    
+}

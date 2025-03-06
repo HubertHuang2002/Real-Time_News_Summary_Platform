@@ -1,0 +1,17 @@
+.footer {
+  position: relative;
+  background-color: #f8f9fa;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.footer-links .footer-text {
+  color: #333;
+  margin: 0 10px;
+  font-size: 14px;
+  cursor: default;
+}
+
+.footer-links .footer-text:hover {
+  text-decoration: none;
+}
