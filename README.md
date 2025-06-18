@@ -1,6 +1,6 @@
 ## Real-Time_News_Summary_Platform
 
-### Preface
+### Introduction
 This is our final project for the course "Web Application Programming."
 For a complete project introduction, please visit my **[personal website.](https://huberthuang2002.github.io/blog/post-5/)**
 
