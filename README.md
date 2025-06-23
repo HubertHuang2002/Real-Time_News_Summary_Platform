@@ -216,7 +216,7 @@ When you select a category, the webpage will display several real-time news summ
 
 <img src="/image/web04.png" alt="Main UI" width="400"/>
 
-### Project Reflections
+### Project Summary
 This project integrates web scraping, artificial intelligence, and a minimalist frontend design to provide quickly generated and categorized news summaries, enhancing user reading efficiency and experience. 
 
 The project required a high degree of collaboration, with frequent communication between the frontend and backend teams to ensure smooth data transmission. I am thrilled to have successfully completed this project with my teammates and am deeply grateful for everyone's teamwork, which made the success of this project possible.
