@@ -5,7 +5,7 @@ This is our final project for the course "Web Application Programming."
 For a complete project introduction, please visit my **[personal website.](https://huberthuang2002.github.io/blog/post-5/)**
 
 ### Collaborators
-Po-Cheng Huang, Yu-Yang Su, Chun-Han Lin, Chih-Chieh Yu
+Po-Cheng Huang, Yu-Yang Su, Chun-Han Lin, Chih-Chieh Yu, Fan-Jia (Hubert) Huang
 
 ## Features
 This project enables hosting a local web server with the following functionalities:
